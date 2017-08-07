@@ -1,0 +1,12 @@
+{
+	"ImportPath": "github.com/jeffprestes/vendorcertoa",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/jeffprestes/vendorcalc",
+			"Comment": "v-0.1",
+			"Rev": "c2709320415ea138d5eb818fee8d41b77527236c"
+		}
+	]
+}
